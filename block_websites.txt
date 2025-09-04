@@ -1,0 +1,3 @@
+# Custom Haram Websites list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 borgataonline.com
