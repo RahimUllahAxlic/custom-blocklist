@@ -1,4 +1,7 @@
-# Custom Haram Websites list
-# ------------------------------------[FILTERS]-------------------------------------
-
+# Test blocklist
 borgataonline.com
+fanduel.com
+betmgm.com
+draftkings.com
+betrivers.com
+
