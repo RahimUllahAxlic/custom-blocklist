@@ -1,7 +1,5 @@
-# Test blocklist
-borgataonline.com
-fanduel.com
-betmgm.com
-draftkings.com
-betrivers.com
+facebook.com
+instagram.com
+tiktok.com
+
 
