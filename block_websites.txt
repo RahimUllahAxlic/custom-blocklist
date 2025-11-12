@@ -1,5 +1,6 @@
-gambling.com
-pornhub.com
-gamble.com
-xnxx.com
-Roblox.com
+0.0.0.0 gambling.com
+0.0.0.0 pornhub.com
+0.0.0.0 gamble.com
+0.0.0.0 xnxx.com
+0.0.0.0 Roblox.com
+0.0.0.0 xxx.com
