@@ -7,3 +7,5 @@
 0.0.0.0 porn.com
 0.0.0.0 www.porn.com
 xxx.com
+0.0.0.0 adultdating.com
+0.0.0.0 www.adultdating.com
