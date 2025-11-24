@@ -11,3 +11,5 @@ xxx.com
 0.0.0.0 www.adultdating.com
 0.0.0.0 sexdate.com
 0.0.0.0 www.sexdate.com
+0.0.0.0 sex.com
+0.0.0.0 www.sex.com
