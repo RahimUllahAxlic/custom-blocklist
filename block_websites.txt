@@ -15,3 +15,5 @@ xxx.com
 0.0.0.0 www.sex.com
 0.0.0.0 poker.com
 0.0.0.0 www.poker.com
+0.0.0.0 sportsbet
+0.0.0.0 www.sportsbet
