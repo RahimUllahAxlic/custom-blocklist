@@ -21,3 +21,5 @@ xxx.com
 0.0.0.0 www.bet365.com
 0.0.0.0 some-gambling-site.com
 0.0.0.0 www.some-gambling-site.com
+0.0.0.0 unibet.com
+0.0.0.0 www.unibet.com
