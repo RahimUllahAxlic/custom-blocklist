@@ -27,3 +27,5 @@ xxx.com
 0.0.0.0 www.stake.com
 0.0.0.0 gambling
 0.0.0.0 www.gambling
+0.0.0.0 youporn
+0.0.0.0 www.youporn
