@@ -31,3 +31,5 @@ xxx.com
 0.0.0.0 www.youporn
 0.0.0.0 youporn.com
 0.0.0.0 www.youporn.com
+0.0.0.0 bet.com
+0.0.0.0 www.bet.com
