@@ -33,3 +33,5 @@ xxx.com
 0.0.0.0 www.youporn.com
 0.0.0.0 bet.com
 0.0.0.0 www.bet.com
+0.0.0.0 tinder.com
+0.0.0.0 www.tinder.com
