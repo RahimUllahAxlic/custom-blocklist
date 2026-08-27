@@ -37,3 +37,5 @@ xxx.com
 0.0.0.0 www.tinder.com
 0.0.0.0 sex
 0.0.0.0 www.sex
+0.0.0.0 cricbuzz.com
+0.0.0.0 www.cricbuzz.com
