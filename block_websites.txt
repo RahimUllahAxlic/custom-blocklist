@@ -39,3 +39,5 @@ xxx.com
 0.0.0.0 www.sex
 0.0.0.0 cricbuzz.com
 0.0.0.0 www.cricbuzz.com
+0.0.0.0 onlyfans.com
+0.0.0.0 www.onlyfans.com
